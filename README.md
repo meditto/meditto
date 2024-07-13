@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">A passionate web developer from Algeria</h3>
 
-- 🔭 I’m currently working on [Monster Upsells](https://apps.shopify.com/monster-upsells)
+- 🔭 I’m currently working at [Monster Upsells](https://apps.shopify.com/monster-upsells)
 
 - 💬 Ask me about **javascript, typescript, react, docker**
 
